@@ -1,0 +1,3 @@
+model.Toy: id = 3, name = cat
+model.Toy: id = 1, name = robot
+model.Toy: id = 3, name = cat
